@@ -8,6 +8,8 @@ package com.pinguela.circle;
  * @author Carla Gonzalez
  * @version 1.0
  */
+
+// hola hola
 public final class Circle {
     /** Finite horizontal coordinate of the centre. */
     private final double x;
